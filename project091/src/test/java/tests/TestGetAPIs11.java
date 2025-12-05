@@ -32,9 +32,9 @@ public class TestGetAPIs11 {
 		
 		System.out.println(res.statusCode());
 		System.out.println(res.time());
-		System.out.println(res.asString());
-		System.out.println(res.getHeaders());
-		System.out.println(res.cookies());
+		// System.out.println(res.asString());
+		// System.out.println(res.getHeaders());
+		// System.out.println(res.cookies());
 	
 	}
 }
